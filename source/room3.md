@@ -1,0 +1,6 @@
+As you go walk down the long corridor you heard the low rumbling coming from, You enter a large chamber of sorts, its use being unknown to you. In the center, is a grate of which the low rumbling noise appears to be eminating.
+The walls are intricatley carved, with inscriptions of a bipedal bull, And men hoding swords. It seems to depict the men fighting and being slain by the beast. There are stairs descending in every which way.
+[North](room9.html)
+[East](room5.html)
+[West](room10.html)
+[South](room2.html)

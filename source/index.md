@@ -1,0 +1,3 @@
+WELCOME INTO THE MINOTAURS LABRYNTH
+
+[Enter the Maze](room1.html)
